@@ -1,1 +1,5 @@
-"[Change Log] -Nothing yet" 
+[Change Log]
+
+Yeah, I haven't really done anything yet
+
+Just trying to do git commit/pushes 
